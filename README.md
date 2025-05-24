@@ -28,3 +28,11 @@ The Online Retail Data Analysis project aims to extract actionable business insi
 *  What is the ROI on marketing spend?
 
 ### Challenges 
+
+* Handling Canceled and Non-Sales Transactions
+* Deciding how to handle missing CustomerID values for different types of analysis
+* Standardizing inconsistent country names while preserving "Unspecified" records
+* Detecting and managing outliers in Quantity and UnitPrice.
+* Removing over 5,000 fully duplicated rows without losing valuable data
+
+
