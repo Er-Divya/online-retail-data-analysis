@@ -29,6 +29,7 @@ The Online Retail Data Analysis project aims to extract actionable business insi
 
 ### Challenges 
 
+* Balancing technical data cleaning with business logic to preserve analytical value
 * Handling Canceled and Non-Sales Transactions
 * Deciding how to handle missing CustomerID values for different types of analysis
 * Standardizing inconsistent country names while preserving "Unspecified" records
